@@ -2131,7 +2131,7 @@ table th[class*=col-] {
 .table-hover>tbody>tr:hover>.danger,
 .table-hover>tbody>tr>td.danger:hover,
 .table-hover>tbody>tr>th.danger:hover {
-    background-color: #D5DB75
+    background-color: #878b4b
 }
 
 .table-responsive {
@@ -5019,7 +5019,7 @@ a.badge:hover {
 }
 
 .alert-danger hr {
-    border-top-color: #D5DB75
+    border-top-color: #878b4b
 }
 
 .alert-danger .alert-link {
@@ -5656,11 +5656,11 @@ button.close {
 }
 
 body {
-    background-image: -webkit-linear-gradient(top, #2a248a, #D5DB75);
-    background-image: -o-linear-gradient(top, #2a248a 0, #D5DB75 100%);
-    background-image: linear-gradient(180deg, #2a248a 0, #D5DB75);
+    background-image: -webkit-linear-gradient(top, #2a248a, #878b4b);
+    background-image: -o-linear-gradient(top, #2a248a 0, #878b4b 100%);
+    background-image: linear-gradient(180deg, #2a248a 0, #878b4b);
     background-repeat: repeat-x;
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#FF2a248a", endColorstr="#FFD5DB75", GradientType=0)
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#FF2a248a", endColorstr="#FF878b4b", GradientType=0)
 }
 
 body.white {
@@ -5771,11 +5771,11 @@ body.white {
 
 .btn-primary,
 .btn-primary:hover {
-    background-image: -webkit-linear-gradient(left, #D5DB75, #2a248a);
-    background-image: -o-linear-gradient(left, #D5DB75 0, #2a248a 100%);
-    background-image: linear-gradient(90deg, #D5DB75 0, #2a248a);
+    background-image: -webkit-linear-gradient(left, #878b4b, #2a248a);
+    background-image: -o-linear-gradient(left, #878b4b0, #2a248a 100%);
+    background-image: linear-gradient(90deg, #878b4b0, #2a248a);
     background-repeat: repeat-x;
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#FFD5DB75", endColorstr="#FF2a248a", GradientType=1)
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#FF878b4b", endColorstr="#FF2a248a", GradientType=1)
 }
 
 .btn-primary:hover {
