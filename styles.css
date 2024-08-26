@@ -1,11 +1,10 @@
-#pokemon-moves {
-    margin-top: 20px;
+body {
+    background-color: #f8f9fa;
 }
 
-#moves-list li {
-    background-color: #f1f1f1;
-    border-radius: 4px;
-    padding: 8px;
-    margin: 4px 0;
+#address-info {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
-
